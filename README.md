@@ -2,10 +2,10 @@
 
 <!-- TOC -->
 * [Évaluation cours CALMS 📑](#évaluation-cours-calms-)
-  * [Fonctionnement du repo ✔️](#fonctionnement-du-repo-)
+  * [Fonctionnement du repo](#fonctionnement-du-repo)
 <!-- TOC -->
 
-## Fonctionnement du repo ✔️
+## Fonctionnement du repo
 
 ```
     ├── README.md
